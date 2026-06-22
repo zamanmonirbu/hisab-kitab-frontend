@@ -1,0 +1,11 @@
+node_modules
+dist
+*.local
+.env
+dev.db
+dev.db-*
+prisma/dev.db
+prisma/dev.db-*
+src/generated
+.DS_Store
+.vercel
